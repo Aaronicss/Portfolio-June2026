@@ -33,14 +33,14 @@ export default function Projects() {
       description:
         "used Natural Language Processing to detect emotions from textual-input.",
       image: project4,
-      link: "https://https://emosenses.streamlit.app",
+      link: "https://emosenses.streamlit.app",
     },
     {
       title: "Floodguard using Machine Learning",
       description:
         "used Machine Learning to predict flood probability and allocate resources.",
       image: project5,
-      link: "https://https://floodguard.streamlit.app",
+      link: "https://floodguard.streamlit.app",
     },
   ];
 
